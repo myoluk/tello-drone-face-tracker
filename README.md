@@ -7,3 +7,4 @@
 
 :star: Provided **autonomous** flight by processing the images taken with Tello.
 
+:point_right: Details and purchase official [here](https://store.dji.com/shop/tello-series)

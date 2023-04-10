@@ -8,3 +8,5 @@
 :star: Allows **autonomous** flight by processing the images taken with Tello
 
 :point_right: DJI Tello [official site](https://store.dji.com/shop/tello-series)
+
+![Tello Drone Face Tracker](images/tello-drone-face-tracker.png)

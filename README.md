@@ -7,7 +7,7 @@
 
 :star: Allows **autonomous** flight by processing the images taken with Tello
 
-:point_right: 6 DOF (Six Degrees of Freedom) maneuverable
+:point_right: **6 DOF** (Six Degrees of Freedom) maneuverable
 
 :point_right: DJI Tello [official site](https://store.dji.com/shop/tello-series)
 

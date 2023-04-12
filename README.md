@@ -13,10 +13,10 @@
 
 :white_check_mark: **6 DOF** (Six Degrees of Freedom) maneuverable
 
-:white_check_mark: **PID** (proportional–integral–derivative) controller used for stabilization
-
 :point_right: DJI Tello [official site](https://store.dji.com/shop/tello-series)
 
 ![Tello Drone Face Tracker](images/tello-drone-face-tracker.png)
 
+:white_check_mark: **PID** (proportional–integral–derivative) controller used for stabilization
 
+![PID](images/pid-diagram.png)

@@ -19,8 +19,8 @@
 
 :white_check_mark: [PID](https://en.wikipedia.org/wiki/PID_controller) (proportional–integral–derivative) controller used for stabilization
 
-![PID](images/pid-diagram.png)
+<img src="images/pid-diagram.png" style="width:50%" alt="PID">
 
 :white_check_mark: `pError` controls the x-axis, `pError_y` controls the y-axis
 
-![PID Errors](images/p-error-axis.png)
+<img src="images/p-error-axis.png" style="width:50%" alt="PID Errors">

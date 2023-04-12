@@ -33,7 +33,7 @@ def init_tello():
     tello.yaw_velocity = 0
     tello.speed = 0
     
-    # Steaming
+    # Streaming
     tello.streamoff()
     tello.streamon()
     

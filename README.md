@@ -13,8 +13,6 @@
 
 :white_check_mark: **6 DOF** (Six Degrees of Freedom) maneuverable
 
-:point_right: DJI Tello [official site](https://store.dji.com/shop/tello-series)
-
 ![Tello Drone Face Tracker](images/tello-drone-face-tracker.png)
 
 :white_check_mark: [PID](https://en.wikipedia.org/wiki/PID_controller) (proportional–integral–derivative) controller used for stabilization
@@ -24,3 +22,5 @@
 :white_check_mark: `pError` controls the x-axis, `pError_y` controls the y-axis
 
 <img src="images/p-error-axis.png" style="width:50%" alt="PID Errors">
+
+:point_right: DJI Tello [official site](https://store.dji.com/shop/tello-series)

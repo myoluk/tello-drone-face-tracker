@@ -17,6 +17,6 @@
 
 ![Tello Drone Face Tracker](images/tello-drone-face-tracker.png)
 
-:white_check_mark: **PID** (proportional–integral–derivative) controller used for stabilization
+:white_check_mark: [**PID**](https://en.wikipedia.org/wiki/PID_controller) (proportional–integral–derivative) controller used for stabilization
 
 ![PID](images/pid-diagram.png)

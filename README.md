@@ -13,6 +13,8 @@
 
 :white_check_mark: **6 DOF** (Six Degrees of Freedom) maneuverable
 
+:point_right: DJI Tello [official site](https://store.dji.com/shop/tello-series)
+
 ![Tello Drone Face Tracker](images/tello-drone-face-tracker.png)
 
-:point_right: DJI Tello [official site](https://store.dji.com/shop/tello-series)
+
